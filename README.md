@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="./logo.png" alt="PRISM Logo" height="100"/>
-</div>
 
-# PRISM
+
+# SUQI XUE
 
 **English** · [中文](README_cn.md) · [Demo](https://prism-demo.pages.dev)  · [Changelog](CHANGELOG.md)
 
@@ -113,6 +111,8 @@ PRISM/
 ```
 
 ## 🤝 Contributing
+
+https://github.com/xyjoey/PRISM
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
